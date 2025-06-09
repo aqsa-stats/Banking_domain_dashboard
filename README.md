@@ -44,26 +44,3 @@ BankCustomerAnalysis/
 └── requirements.txt           # Python dependencies (optional)
 ```
 ---
-
-## 📈 Analysis Highlights
-
-### 🏦 Financial Insights
-
-* Customers with **higher balances** are more likely to subscribe to the term deposit.
-* **Housing and personal loans** are held by a considerable proportion of customers.
-
-### 📣 Campaign Response
-
-* The success of marketing campaigns is **not strongly influenced** by education or marital status.
-* **Duration of last contact** plays a critical role in campaign success.
-* Customers contacted during **May** and **August** were most frequent, but had lower success rates.
-
-### 🔗 Variable Relationships
-
-* Positive correlation found between **balance and duration**.
-* Age, campaign count, and previous outcomes show weak correlation with subscription (`y`).
-
-### 📊 Visual Patterns
-
-* Used histograms, pie charts, count plots, and bar graphs for visual storytelling.
-* Heatmaps revealed weak multicollinearity in most features.
