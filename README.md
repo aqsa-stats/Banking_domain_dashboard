@@ -44,3 +44,14 @@ BankCustomerAnalysis/
 └── requirements.txt           # Python dependencies (optional)
 ```
 ---
+
+---
+
+## 📚 Reference
+
+This project was created with guidance and reference from the YouTube video by **Satyajit Pattnaik**.  
+🎥 [Bank Customer Analysis & Dashboard | Python + Power BI by Satyajit Pattnaik](https://youtu.be/qlYT2VIyaaY?si=cVYhy0m79RbEJd3w)
+
+> *Credits to Satyajit Pattnaik for educational content inspiration.*
+
+---
